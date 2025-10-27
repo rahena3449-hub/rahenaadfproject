@@ -1,0 +1,9 @@
+{
+	"name": "adf-rahena",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d496ecca-8134-4cf7-a4bc-e056ca681ae6",
+		"tenantId": "a4f5e6c4-44e0-4c4d-834f-52b061cab33f"
+	}
+}
